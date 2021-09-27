@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="12" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="195433" started-at="2021-09-27T09:59:25 IST" finished-at="2021-09-27T10:02:41 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="195433" started-at="2021-09-27T09:59:25 IST" finished-at="2021-09-27T10:02:41 IST">
+      <class name="com.mindtree.Runner.Runner">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.mindtree.Runner.Runner@548ad73b]" name="setup" is-config="true" duration-ms="1875" started-at="2021-09-27T09:59:25 IST" finished-at="2021-09-27T09:59:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:1, instance:com.mindtree.Runner.Runner@548ad73b]" name="loginTest" duration-ms="18478" started-at="2021-09-27T09:59:27 IST" finished-at="2021-09-27T09:59:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="sale()[pri:2, instance:com.mindtree.Runner.Runner@548ad73b]" name="sale" duration-ms="38410" started-at="2021-09-27T09:59:46 IST" finished-at="2021-09-27T10:00:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sale -->
+        <test-method status="PASS" signature="SearchProduct()[pri:3, instance:com.mindtree.Runner.Runner@548ad73b]" name="SearchProduct" duration-ms="15662" started-at="2021-09-27T10:00:24 IST" finished-at="2021-09-27T10:00:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchProduct -->
+        <test-method status="PASS" signature="Compare()[pri:4, instance:com.mindtree.Runner.Runner@548ad73b]" name="Compare" duration-ms="40467" started-at="2021-09-27T10:00:40 IST" finished-at="2021-09-27T10:01:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Compare -->
+        <test-method status="PASS" signature="CustomerDetails()[pri:5, instance:com.mindtree.Runner.Runner@548ad73b]" name="CustomerDetails" duration-ms="8841" started-at="2021-09-27T10:01:20 IST" finished-at="2021-09-27T10:01:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CustomerDetails -->
+        <test-method status="PASS" signature="TvClick()[pri:6, instance:com.mindtree.Runner.Runner@548ad73b]" name="TvClick" duration-ms="6504" started-at="2021-09-27T10:01:29 IST" finished-at="2021-09-27T10:01:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TvClick -->
+        <test-method status="PASS" signature="Store()[pri:7, instance:com.mindtree.Runner.Runner@548ad73b]" name="Store" duration-ms="8613" started-at="2021-09-27T10:01:36 IST" finished-at="2021-09-27T10:01:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Store -->
+        <test-method status="PASS" signature="SearchManyProduct(java.lang.String)[pri:8, instance:com.mindtree.Runner.Runner@548ad73b]" name="SearchManyProduct" duration-ms="6298" started-at="2021-09-27T10:01:45 IST" data-provider="getexceldata" finished-at="2021-09-27T10:01:51 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Bed]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchManyProduct -->
+        <test-method status="PASS" signature="SearchManyProduct(java.lang.String)[pri:8, instance:com.mindtree.Runner.Runner@548ad73b]" name="SearchManyProduct" duration-ms="6892" started-at="2021-09-27T10:01:51 IST" data-provider="getexceldata" finished-at="2021-09-27T10:01:58 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Table]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchManyProduct -->
+        <test-method status="PASS" signature="SearchManyProduct(java.lang.String)[pri:8, instance:com.mindtree.Runner.Runner@548ad73b]" name="SearchManyProduct" duration-ms="8326" started-at="2021-09-27T10:01:58 IST" data-provider="getexceldata" finished-at="2021-09-27T10:02:07 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chair]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchManyProduct -->
+        <test-method status="PASS" signature="SearchManyProduct(java.lang.String)[pri:8, instance:com.mindtree.Runner.Runner@548ad73b]" name="SearchManyProduct" duration-ms="8403" started-at="2021-09-27T10:02:07 IST" data-provider="getexceldata" finished-at="2021-09-27T10:02:15 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Lamp]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchManyProduct -->
+        <test-method status="PASS" signature="AddWhislist()[pri:9, instance:com.mindtree.Runner.Runner@548ad73b]" name="AddWhislist" duration-ms="25020" started-at="2021-09-27T10:02:15 IST" finished-at="2021-09-27T10:02:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddWhislist -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.mindtree.Runner.Runner@548ad73b]" name="tearDown" is-config="true" duration-ms="837" started-at="2021-09-27T10:02:40 IST" finished-at="2021-09-27T10:02:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="test()[pri:0, instance:com.mindtree.Runner.Runner@548ad73b]" name="test" is-config="true" duration-ms="3704" started-at="2021-09-27T10:02:41 IST" finished-at="2021-09-27T10:02:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- com.mindtree.Runner.Runner -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

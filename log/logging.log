@@ -1,0 +1,304 @@
+2021-09-25 19:56:05 INFO  UrbanLadder:37 - Url is opened
+  2021-09-25 19:56:28 INFO  UrbanLadder:37 - Url is opened
+  2021-09-25 19:57:46 INFO  UrbanLadder:37 - Url is opened
+  2021-09-25 19:58:04 INFO  UrbanLadder:37 - Url is opened
+  2021-09-25 19:58:04 INFO  UrbanLadder:80 - Click Store
+  2021-09-25 19:58:20 INFO  UrbanLadder:37 - Url is opened
+  2021-09-25 19:58:20 INFO  UrbanLadder:69 - SearchProducts
+  2021-09-25 19:58:25 INFO  UrbanLadder:71 - Add Filters to SearchProducts
+  2021-09-25 19:58:31 INFO  UrbanLadder:37 - Url is opened
+  2021-09-25 19:58:31 INFO  UrbanLadder:116 - SearchProducts
+  2021-09-25 19:58:38 INFO  UrbanLadder:118 - Add Filters to SearchProducts
+  2021-09-25 19:58:42 INFO  UrbanLadder:120 - Add Recommedation to SearchProducts
+  2021-09-25 19:58:47 INFO  UrbanLadder:122 - Add Compare to SearchProducts
+  2021-09-25 19:59:20 INFO  UrbanLadder:37 - Url is opened
+  2021-09-25 19:59:46 INFO  UrbanLadder:37 - Url is opened
+  2021-09-25 19:59:46 INFO  UrbanLadder:89 - Click Tv
+  2021-09-25 19:59:52 INFO  UrbanLadder:37 - Url is opened
+  2021-09-25 20:00:02 INFO  UrbanLadder:98 - Get Customer Details
+  2021-09-25 20:00:07 INFO  UrbanLadder:37 - Url is opened
+  2021-09-25 20:00:16 INFO  UrbanLadder:37 - Url is opened
+  2021-09-25 20:00:25 INFO  UrbanLadder:37 - Url is opened
+  2021-09-25 20:00:34 INFO  UrbanLadder:37 - Url is opened
+  2021-09-25 20:00:42 INFO  UrbanLadder:37 - Url is opened
+  2021-09-25 20:00:42 INFO  UrbanLadder:105 - SearchProducts
+  2021-09-25 20:00:46 INFO  UrbanLadder:107 - Add Filters to SearchProducts
+  2021-09-25 20:04:14 INFO  UrbanLadder:37 - Url is opened
+  2021-09-25 20:04:36 INFO  UrbanLadder:37 - Url is opened
+  2021-09-25 20:04:37 INFO  UrbanLadder:80 - Click Store
+  2021-09-25 20:04:45 INFO  UrbanLadder:37 - Url is opened
+  2021-09-25 20:04:45 INFO  UrbanLadder:69 - SearchProducts
+  2021-09-25 20:04:49 INFO  UrbanLadder:71 - Add Filters to SearchProducts
+  2021-09-25 20:04:53 INFO  UrbanLadder:37 - Url is opened
+  2021-09-25 20:04:53 INFO  UrbanLadder:116 - SearchProducts
+  2021-09-25 20:04:57 INFO  UrbanLadder:118 - Add Filters to SearchProducts
+  2021-09-25 20:05:01 INFO  UrbanLadder:120 - Add Recommedation to SearchProducts
+  2021-09-25 20:05:06 INFO  UrbanLadder:122 - Add Compare to SearchProducts
+  2021-09-25 20:05:20 INFO  UrbanLadder:37 - Url is opened
+  2021-09-25 20:05:45 INFO  UrbanLadder:37 - Url is opened
+  2021-09-25 20:05:45 INFO  UrbanLadder:89 - Click Tv
+  2021-09-25 20:05:51 INFO  UrbanLadder:37 - Url is opened
+  2021-09-25 20:06:01 INFO  UrbanLadder:98 - Get Customer Details
+  2021-09-25 20:06:06 INFO  UrbanLadder:37 - Url is opened
+  2021-09-25 20:06:14 INFO  UrbanLadder:37 - Url is opened
+  2021-09-25 20:06:22 INFO  UrbanLadder:37 - Url is opened
+  2021-09-25 20:06:33 INFO  UrbanLadder:37 - Url is opened
+  2021-09-25 20:06:43 INFO  UrbanLadder:37 - Url is opened
+  2021-09-25 20:06:43 INFO  UrbanLadder:105 - SearchProducts
+  2021-09-25 20:06:47 INFO  UrbanLadder:107 - Add Filters to SearchProducts
+  2021-09-25 20:11:54 INFO  UrbanLadder:38 - Url is opened
+  2021-09-25 20:12:03 INFO  UrbanLadder:38 - Url is opened
+  2021-09-25 20:12:03 INFO  UrbanLadder:81 - Click Store
+  2021-09-25 20:12:14 INFO  UrbanLadder:38 - Url is opened
+  2021-09-25 20:12:14 INFO  UrbanLadder:70 - SearchProducts
+  2021-09-25 20:12:18 INFO  UrbanLadder:72 - Add Filters to SearchProducts
+  2021-09-25 20:12:23 INFO  UrbanLadder:38 - Url is opened
+  2021-09-25 20:12:23 INFO  UrbanLadder:117 - SearchProducts
+  2021-09-25 20:12:27 INFO  UrbanLadder:119 - Add Filters to SearchProducts
+  2021-09-25 20:12:31 INFO  UrbanLadder:121 - Add Recommedation to SearchProducts
+  2021-09-25 20:12:36 INFO  UrbanLadder:123 - Add Compare to SearchProducts
+  2021-09-25 20:12:50 INFO  UrbanLadder:38 - Url is opened
+  2021-09-25 20:13:13 INFO  UrbanLadder:38 - Url is opened
+  2021-09-25 20:13:13 INFO  UrbanLadder:90 - Click Tv
+  2021-09-25 20:13:20 INFO  UrbanLadder:38 - Url is opened
+  2021-09-25 20:13:20 INFO  UrbanLadder:99 - Get Customer Details
+  2021-09-25 20:13:24 INFO  UrbanLadder:38 - Url is opened
+  2021-09-25 20:13:33 INFO  UrbanLadder:38 - Url is opened
+  2021-09-25 20:13:42 INFO  UrbanLadder:38 - Url is opened
+  2021-09-25 20:13:51 INFO  UrbanLadder:38 - Url is opened
+  2021-09-25 20:15:10 INFO  UrbanLadder:81 - Click Store
+  2021-09-25 20:15:10 INFO  UrbanLadder:70 - SearchProducts
+  2021-09-25 20:15:10 INFO  UrbanLadder:72 - Add Filters to SearchProducts
+  2021-09-25 20:15:10 INFO  UrbanLadder:117 - SearchProducts
+  2021-09-25 20:15:10 INFO  UrbanLadder:119 - Add Filters to SearchProducts
+  2021-09-25 20:15:10 INFO  UrbanLadder:121 - Add Recommedation to SearchProducts
+  2021-09-25 20:15:10 INFO  UrbanLadder:123 - Add Compare to SearchProducts
+  2021-09-25 20:15:10 INFO  UrbanLadder:90 - Click Tv
+  2021-09-25 20:15:10 INFO  UrbanLadder:99 - Get Customer Details
+  2021-09-25 20:15:10 INFO  UrbanLadder:106 - SearchProducts
+  2021-09-25 20:15:10 INFO  UrbanLadder:108 - Add Filters to SearchProducts
+  2021-09-25 20:16:19 INFO  UrbanLadder:49 - Url is opened
+  2021-09-25 20:16:25 INFO  UrbanLadder:84 - Click Store
+  2021-09-25 20:16:30 INFO  UrbanLadder:71 - Url is opened
+  2021-09-25 20:16:30 INFO  UrbanLadder:73 - SearchProducts
+  2021-09-25 20:16:34 INFO  UrbanLadder:75 - Add Filters to SearchProducts
+  2021-09-25 20:16:36 INFO  UrbanLadder:122 - Url is opened
+  2021-09-25 20:16:36 INFO  UrbanLadder:124 - SearchProducts
+  2021-09-25 20:16:40 INFO  UrbanLadder:126 - Add Filters to SearchProducts
+  2021-09-25 20:16:44 INFO  UrbanLadder:128 - Add Recommedation to SearchProducts
+  2021-09-25 20:16:49 INFO  UrbanLadder:130 - Add Compare to SearchProducts
+  2021-09-25 20:17:20 INFO  UrbanLadder:92 - Url is opened
+  2021-09-25 20:17:20 INFO  UrbanLadder:94 - Click Tv
+  2021-09-25 20:17:23 INFO  UrbanLadder:101 - Url is opened
+  2021-09-25 20:17:34 INFO  UrbanLadder:104 - Get Customer Details
+  2021-09-25 20:17:36 INFO  UrbanLadder:139 - Url is opened
+  2021-09-25 20:17:42 INFO  UrbanLadder:139 - Url is opened
+  2021-09-25 20:17:49 INFO  UrbanLadder:139 - Url is opened
+  2021-09-25 20:17:55 INFO  UrbanLadder:139 - Url is opened
+  2021-09-25 20:18:01 INFO  UrbanLadder:110 - Url is opened
+  2021-09-25 20:18:01 INFO  UrbanLadder:112 - SearchProducts
+  2021-09-25 20:18:05 INFO  UrbanLadder:114 - Add Filters to SearchProducts
+  2021-09-25 21:52:53 INFO  UrbanLadder:49 - Url is opened
+  2021-09-25 21:52:58 INFO  UrbanLadder:84 - Click Store
+  2021-09-25 21:53:03 INFO  UrbanLadder:71 - Url is opened
+  2021-09-25 21:53:03 INFO  UrbanLadder:73 - SearchProducts
+  2021-09-25 21:53:06 INFO  UrbanLadder:75 - Add Filters to SearchProducts
+  2021-09-25 21:53:08 INFO  UrbanLadder:122 - Url is opened
+  2021-09-25 21:53:08 INFO  UrbanLadder:124 - SearchProducts
+  2021-09-25 21:53:12 INFO  UrbanLadder:126 - Add Filters to SearchProducts
+  2021-09-25 21:53:21 INFO  UrbanLadder:128 - Add Recommedation to SearchProducts
+  2021-09-25 21:53:27 INFO  UrbanLadder:130 - Add Compare to SearchProducts
+  2021-09-25 21:54:08 INFO  UrbanLadder:92 - Url is opened
+  2021-09-25 21:54:08 INFO  UrbanLadder:94 - Click Tv
+  2021-09-25 21:54:12 INFO  UrbanLadder:101 - Url is opened
+  2021-09-25 21:54:22 INFO  UrbanLadder:104 - Get Customer Details
+  2021-09-25 21:54:24 INFO  UrbanLadder:139 - Url is opened
+  2021-09-25 21:54:32 INFO  UrbanLadder:139 - Url is opened
+  2021-09-25 21:54:40 INFO  UrbanLadder:139 - Url is opened
+  2021-09-25 21:54:46 INFO  UrbanLadder:139 - Url is opened
+  2021-09-25 21:54:51 INFO  UrbanLadder:110 - Url is opened
+  2021-09-25 21:54:51 INFO  UrbanLadder:112 - SearchProducts
+  2021-09-25 21:54:55 INFO  UrbanLadder:114 - Add Filters to SearchProducts
+  2021-09-25 21:58:40 INFO  UrbanLadder:85 - Click Store
+  2021-09-25 21:59:10 INFO  UrbanLadder:85 - Click Store
+  2021-09-25 22:00:18 INFO  UrbanLadder:60 - Url is opened
+  2021-09-25 22:00:53 INFO  UrbanLadder:85 - Click Store
+  2021-09-26 17:16:02 INFO  UrbanLadder:61 - Url is opened
+  2021-09-26 17:16:23 INFO  UrbanLadder:73 - Url is opened
+  2021-09-26 17:16:23 INFO  UrbanLadder:75 - SearchProducts
+  2021-09-26 17:16:27 INFO  UrbanLadder:77 - Add Filters to SearchProducts
+  2021-09-26 17:16:38 INFO  UrbanLadder:124 - Url is opened
+  2021-09-26 17:16:38 INFO  UrbanLadder:126 - SearchProducts
+  2021-09-26 17:16:42 INFO  UrbanLadder:128 - Add Filters to SearchProducts
+  2021-09-26 17:16:46 INFO  UrbanLadder:130 - Add Recommedation to SearchProducts
+  2021-09-26 17:16:51 INFO  UrbanLadder:132 - Add Compare to SearchProducts
+  2021-09-26 17:17:02 INFO  UrbanLadder:94 - Url is opened
+  2021-09-26 17:17:02 INFO  UrbanLadder:96 - Click Tv
+  2021-09-26 17:17:05 INFO  UrbanLadder:103 - Url is opened
+  2021-09-26 17:17:15 INFO  UrbanLadder:106 - Get Customer Details
+  2021-09-26 17:17:17 INFO  UrbanLadder:112 - Url is opened
+  2021-09-26 17:17:17 INFO  UrbanLadder:114 - SearchProducts
+  2021-09-26 17:17:22 INFO  UrbanLadder:116 - Add Filters to SearchProducts
+  2021-09-26 17:17:29 INFO  UrbanLadder:86 - Click Store
+  2021-09-26 17:21:33 INFO  UrbanLadder:61 - Url is opened
+  2021-09-26 17:21:51 INFO  UrbanLadder:73 - Url is opened
+  2021-09-26 17:21:51 INFO  UrbanLadder:75 - SearchProducts
+  2021-09-26 17:21:55 INFO  UrbanLadder:77 - Add Filters to SearchProducts
+  2021-09-26 17:21:57 INFO  UrbanLadder:124 - Url is opened
+  2021-09-26 17:21:57 INFO  UrbanLadder:126 - SearchProducts
+  2021-09-26 17:22:01 INFO  UrbanLadder:128 - Add Filters to SearchProducts
+  2021-09-26 17:22:05 INFO  UrbanLadder:130 - Add Recommedation to SearchProducts
+  2021-09-26 17:22:09 INFO  UrbanLadder:132 - Add Compare to SearchProducts
+  2021-09-26 17:22:21 INFO  UrbanLadder:94 - Url is opened
+  2021-09-26 17:22:21 INFO  UrbanLadder:96 - Click Tv
+  2021-09-26 17:22:24 INFO  UrbanLadder:103 - Url is opened
+  2021-09-26 17:22:34 INFO  UrbanLadder:106 - Get Customer Details
+  2021-09-26 17:22:36 INFO  UrbanLadder:112 - Url is opened
+  2021-09-26 17:22:36 INFO  UrbanLadder:114 - SearchProducts
+  2021-09-26 17:22:40 INFO  UrbanLadder:116 - Add Filters to SearchProducts
+  2021-09-26 17:22:48 INFO  UrbanLadder:86 - Click Store
+  2021-09-26 17:43:04 INFO  UrbanLadder:61 - Url is opened
+  2021-09-26 17:43:26 INFO  UrbanLadder:73 - Url is opened
+  2021-09-26 17:43:26 INFO  UrbanLadder:75 - SearchProducts
+  2021-09-26 17:43:30 INFO  UrbanLadder:77 - Add Filters to SearchProducts
+  2021-09-26 17:43:32 INFO  UrbanLadder:124 - Url is opened
+  2021-09-26 17:43:32 INFO  UrbanLadder:126 - SearchProducts
+  2021-09-26 17:43:36 INFO  UrbanLadder:128 - Add Filters to SearchProducts
+  2021-09-26 17:43:40 INFO  UrbanLadder:130 - Add Recommedation to SearchProducts
+  2021-09-26 17:43:45 INFO  UrbanLadder:132 - Add Compare to SearchProducts
+  2021-09-26 17:43:56 INFO  UrbanLadder:94 - Url is opened
+  2021-09-26 17:43:56 INFO  UrbanLadder:96 - Click Tv
+  2021-09-26 17:44:01 INFO  UrbanLadder:103 - Url is opened
+  2021-09-26 17:44:11 INFO  UrbanLadder:106 - Get Customer Details
+  2021-09-26 17:44:13 INFO  UrbanLadder:112 - Url is opened
+  2021-09-26 17:44:13 INFO  UrbanLadder:114 - SearchProducts
+  2021-09-26 17:44:17 INFO  UrbanLadder:116 - Add Filters to SearchProducts
+  2021-09-26 17:44:23 INFO  UrbanLadder:86 - Click Store
+  2021-09-26 17:46:11 INFO  UrbanLadder:61 - Url is opened
+  2021-09-26 17:46:39 INFO  UrbanLadder:73 - Url is opened
+  2021-09-26 17:46:39 INFO  UrbanLadder:75 - SearchProducts
+  2021-09-26 17:46:43 INFO  UrbanLadder:77 - Add Filters to SearchProducts
+  2021-09-26 17:46:44 INFO  UrbanLadder:124 - Url is opened
+  2021-09-26 17:46:44 INFO  UrbanLadder:126 - SearchProducts
+  2021-09-26 17:46:48 INFO  UrbanLadder:128 - Add Filters to SearchProducts
+  2021-09-26 17:46:52 INFO  UrbanLadder:130 - Add Recommedation to SearchProducts
+  2021-09-26 17:46:57 INFO  UrbanLadder:132 - Add Compare to SearchProducts
+  2021-09-26 17:47:08 INFO  UrbanLadder:94 - Url is opened
+  2021-09-26 17:47:08 INFO  UrbanLadder:96 - Click Tv
+  2021-09-26 17:47:11 INFO  UrbanLadder:103 - Url is opened
+  2021-09-26 17:47:21 INFO  UrbanLadder:106 - Get Customer Details
+  2021-09-26 17:47:23 INFO  UrbanLadder:141 - Url is opened
+  2021-09-26 17:47:29 INFO  UrbanLadder:141 - Url is opened
+  2021-09-26 17:47:34 INFO  UrbanLadder:141 - Url is opened
+  2021-09-26 17:47:40 INFO  UrbanLadder:141 - Url is opened
+  2021-09-26 17:47:45 INFO  UrbanLadder:112 - Url is opened
+  2021-09-26 17:47:45 INFO  UrbanLadder:114 - SearchProducts
+  2021-09-26 17:47:49 INFO  UrbanLadder:116 - Add Filters to SearchProducts
+  2021-09-26 17:47:55 INFO  UrbanLadder:86 - Click Store
+  2021-09-26 17:59:50 INFO  UrbanLadder:61 - Url is opened
+  2021-09-26 18:00:13 INFO  UrbanLadder:73 - Url is opened
+  2021-09-26 18:00:13 INFO  UrbanLadder:75 - SearchProducts
+  2021-09-26 18:00:18 INFO  UrbanLadder:77 - Add Filters to SearchProducts
+  2021-09-26 18:00:19 INFO  UrbanLadder:124 - Url is opened
+  2021-09-26 18:00:20 INFO  UrbanLadder:126 - SearchProducts
+  2021-09-26 18:00:23 INFO  UrbanLadder:128 - Add Filters to SearchProducts
+  2021-09-26 18:00:27 INFO  UrbanLadder:130 - Add Recommedation to SearchProducts
+  2021-09-26 18:00:31 INFO  UrbanLadder:132 - Add Compare to SearchProducts
+  2021-09-26 18:00:34 INFO  UrbanLadder:94 - Url is opened
+  2021-09-26 18:00:34 INFO  UrbanLadder:96 - Click Tv
+  2021-09-26 18:00:37 INFO  UrbanLadder:103 - Url is opened
+  2021-09-26 18:00:47 INFO  UrbanLadder:106 - Get Customer Details
+  2021-09-26 18:00:49 INFO  UrbanLadder:141 - Url is opened
+  2021-09-26 18:00:55 INFO  UrbanLadder:141 - Url is opened
+  2021-09-26 18:01:02 INFO  UrbanLadder:141 - Url is opened
+  2021-09-26 18:01:08 INFO  UrbanLadder:141 - Url is opened
+  2021-09-26 18:01:13 INFO  UrbanLadder:112 - Url is opened
+  2021-09-26 18:01:13 INFO  UrbanLadder:114 - SearchProducts
+  2021-09-26 18:01:17 INFO  UrbanLadder:116 - Add Filters to SearchProducts
+  2021-09-26 18:01:30 INFO  UrbanLadder:86 - Click Store
+  2021-09-26 18:22:36 INFO  UrbanLadder:61 - Url is opened
+  2021-09-26 18:22:59 INFO  UrbanLadder:73 - Url is opened
+  2021-09-26 18:22:59 INFO  UrbanLadder:75 - SearchProducts
+  2021-09-26 18:23:03 INFO  UrbanLadder:77 - Add Filters to SearchProducts
+  2021-09-26 18:23:05 INFO  UrbanLadder:124 - Url is opened
+  2021-09-26 18:23:05 INFO  UrbanLadder:126 - SearchProducts
+  2021-09-26 18:23:09 INFO  UrbanLadder:128 - Add Filters to SearchProducts
+  2021-09-26 18:23:14 INFO  UrbanLadder:130 - Add Recommedation to SearchProducts
+  2021-09-26 18:23:18 INFO  UrbanLadder:132 - Add Compare to SearchProducts
+  2021-09-26 18:23:21 INFO  UrbanLadder:94 - Url is opened
+  2021-09-26 18:23:21 INFO  UrbanLadder:96 - Click Tv
+  2021-09-26 18:23:26 INFO  UrbanLadder:103 - Url is opened
+  2021-09-26 18:23:36 INFO  UrbanLadder:106 - Get Customer Details
+  2021-09-26 18:23:39 INFO  UrbanLadder:141 - Url is opened
+  2021-09-26 18:23:46 INFO  UrbanLadder:141 - Url is opened
+  2021-09-26 18:23:51 INFO  UrbanLadder:141 - Url is opened
+  2021-09-26 18:23:58 INFO  UrbanLadder:141 - Url is opened
+  2021-09-26 18:24:04 INFO  UrbanLadder:112 - Url is opened
+  2021-09-26 18:24:04 INFO  UrbanLadder:114 - SearchProducts
+  2021-09-26 18:24:08 INFO  UrbanLadder:116 - Add Filters to SearchProducts
+  2021-09-26 18:24:22 INFO  UrbanLadder:86 - Click Store
+  2021-09-26 20:51:31 INFO  UrbanLadder:103 - Url is opened
+  2021-09-26 20:51:42 INFO  UrbanLadder:106 - Get Customer Details
+  2021-09-26 20:51:43 INFO  UrbanLadder:61 - Url is opened
+  2021-09-26 20:52:39 INFO  UrbanLadder:103 - Url is opened
+  2021-09-26 20:52:41 INFO  UrbanLadder:106 - Get Customer Details
+  2021-09-26 20:52:43 INFO  UrbanLadder:61 - Url is opened
+  2021-09-27 09:52:18 INFO  UrbanLadder:61 - Url is opened
+  2021-09-27 09:53:38 INFO  UrbanLadder:73 - Url is opened
+  2021-09-27 09:53:38 INFO  UrbanLadder:75 - SearchProducts
+  2021-09-27 09:53:44 INFO  UrbanLadder:77 - Add Filters to SearchProducts
+  2021-09-27 09:53:52 INFO  UrbanLadder:124 - Url is opened
+  2021-09-27 09:53:52 INFO  UrbanLadder:126 - SearchProducts
+  2021-09-27 09:53:57 INFO  UrbanLadder:128 - Add Filters to SearchProducts
+  2021-09-27 09:54:06 INFO  UrbanLadder:130 - Add Recommedation to SearchProducts
+  2021-09-27 09:54:11 INFO  UrbanLadder:132 - Add Compare to SearchProducts
+  2021-09-27 09:54:18 INFO  UrbanLadder:103 - Url is opened
+  2021-09-27 09:54:21 INFO  UrbanLadder:106 - Get Customer Details
+  2021-09-27 09:54:23 INFO  UrbanLadder:94 - Url is opened
+  2021-09-27 09:54:23 INFO  UrbanLadder:96 - Click Tv
+  2021-09-27 09:54:26 INFO  UrbanLadder:86 - Click Store
+  2021-09-27 09:54:34 INFO  UrbanLadder:141 - Url is opened
+  2021-09-27 09:54:42 INFO  UrbanLadder:141 - Url is opened
+  2021-09-27 09:54:49 INFO  UrbanLadder:141 - Url is opened
+  2021-09-27 09:54:57 INFO  UrbanLadder:141 - Url is opened
+  2021-09-27 09:55:06 INFO  UrbanLadder:112 - Url is opened
+  2021-09-27 09:55:06 INFO  UrbanLadder:114 - SearchProducts
+  2021-09-27 09:55:11 INFO  UrbanLadder:116 - Add Filters to SearchProducts
+  2021-09-27 09:59:30 INFO  UrbanLadder:61 - Url is opened
+  2021-09-27 10:00:28 INFO  UrbanLadder:73 - Url is opened
+  2021-09-27 10:00:28 INFO  UrbanLadder:75 - SearchProducts
+  2021-09-27 10:00:35 INFO  UrbanLadder:77 - Add Filters to SearchProducts
+  2021-09-27 10:00:42 INFO  UrbanLadder:124 - Url is opened
+  2021-09-27 10:00:42 INFO  UrbanLadder:126 - SearchProducts
+  2021-09-27 10:00:47 INFO  UrbanLadder:128 - Add Filters to SearchProducts
+  2021-09-27 10:00:56 INFO  UrbanLadder:130 - Add Recommedation to SearchProducts
+  2021-09-27 10:01:01 INFO  UrbanLadder:132 - Add Compare to SearchProducts
+  2021-09-27 10:01:22 INFO  UrbanLadder:103 - Url is opened
+  2021-09-27 10:01:29 INFO  UrbanLadder:106 - Get Customer Details
+  2021-09-27 10:01:31 INFO  UrbanLadder:94 - Url is opened
+  2021-09-27 10:01:31 INFO  UrbanLadder:96 - Click Tv
+  2021-09-27 10:01:36 INFO  UrbanLadder:86 - Click Store
+  2021-09-27 10:01:47 INFO  UrbanLadder:141 - Url is opened
+  2021-09-27 10:01:53 INFO  UrbanLadder:141 - Url is opened
+  2021-09-27 10:02:00 INFO  UrbanLadder:141 - Url is opened
+  2021-09-27 10:02:09 INFO  UrbanLadder:141 - Url is opened
+  2021-09-27 10:02:17 INFO  UrbanLadder:112 - Url is opened
+  2021-09-27 10:02:17 INFO  UrbanLadder:114 - SearchProducts
+  2021-09-27 10:02:21 INFO  UrbanLadder:116 - Add Filters to SearchProducts
+  2021-09-27 11:06:33 INFO  UrbanLadder:61 - Url is opened
+  2021-09-27 11:09:00 INFO  UrbanLadder:73 - Url is opened
+  2021-09-27 11:09:00 INFO  UrbanLadder:75 - SearchProducts
+  2021-09-27 11:09:11 INFO  UrbanLadder:77 - Add Filters to SearchProducts
+  2021-09-27 11:09:21 INFO  UrbanLadder:124 - Url is opened
+  2021-09-27 11:09:21 INFO  UrbanLadder:126 - SearchProducts
+  2021-09-27 11:09:32 INFO  UrbanLadder:128 - Add Filters to SearchProducts
+  2021-09-27 11:09:41 INFO  UrbanLadder:130 - Add Recommedation to SearchProducts
+  2021-09-27 11:09:51 INFO  UrbanLadder:132 - Add Compare to SearchProducts
+  2021-09-27 11:10:20 INFO  UrbanLadder:103 - Url is opened
+  2021-09-27 11:10:37 INFO  UrbanLadder:106 - Get Customer Details
+  2021-09-27 11:10:48 INFO  UrbanLadder:94 - Url is opened
+  2021-09-27 11:10:48 INFO  UrbanLadder:96 - Click Tv
+  2021-09-27 11:11:02 INFO  UrbanLadder:86 - Click Store
+  2021-09-27 11:11:58 INFO  UrbanLadder:141 - Url is opened
+  2021-09-27 11:12:18 INFO  UrbanLadder:141 - Url is opened
+  
